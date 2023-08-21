@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as Frontend Developer<br>- 📚 I'm currently learning ReactJs<br>- ⚡ In my free time, I love to explore different tools & technologies, listen to music, invest in improving my skills.</p>
+<p align="left">- 📚 I'm currently learning ReactJs<br>- ⚡ In my free time, I love to explore different tools & technologies, listen to music, invest in improving my skills.</p>
 
 ###
 
