@@ -1,14 +1,13 @@
 <h1 align="center">Hi there I'm Harshit Saxena👋</h1>
 <h3 align="center">I'm a frontend developer</h3>
 
-
 - 🌱 I’m currently learning **ReactJs**
 
 - 📫 How to reach me **hs6343068@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/harshit-saxena-2804a8226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshit-saxena-2804a8226/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harshit-saxena-2804a8226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-saxena-2804a8226" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/harshit07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshit07" height="30" width="40" /></a>
 </p>
 
